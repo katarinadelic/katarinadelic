@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @katarinadelic
 - 👀 I’m interested in developing apps
-- 🌱 I’m currently learning C#
+- 🌱 I’m currently working on developing a web app
 
 <!---
 katarinadelic/katarinadelic is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
